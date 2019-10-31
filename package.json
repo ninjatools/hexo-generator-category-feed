@@ -9,7 +9,7 @@
   "author": "kosuge",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^1.0.0",
+    "ejs": "^2.7.1",
     "utils-merge": "^1.0.0"
   },
   "repository": {
